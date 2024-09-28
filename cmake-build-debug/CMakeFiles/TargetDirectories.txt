@@ -1,0 +1,3 @@
+/home/panvat/CLion/Prenosy/cmake-build-debug/CMakeFiles/Prenosy.dir
+/home/panvat/CLion/Prenosy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/panvat/CLion/Prenosy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
